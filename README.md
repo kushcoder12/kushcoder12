@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kushagra Vyas</h1>
 <h3 align="center">Student of Tech, Innovation, and Research. Adding value to a safe decentralised future for humanity.</h3>
 
-- 🔭 I’m currently working on **File Integrity and Checking**
+- 🔭 I’m currently working on **Payment Channel Networks**
 
-- 🌱 I’m currently learning **Cryptography, Decentralised Systems & Networks**
-
-- 👯 I’m looking to collaborate on [Web-Vulnerability-Scanner](https://github.com/kushcoder12/Web-Vulnerability-Scanner-)
-
-- 📝 I regularly write articles on [https://medium.com/@vyaskushagra2003](https://medium.com/@vyaskushagra2003)
+- 🌱 I’m currently learning **Graphs, Decentralised Systems & Networks**
 
 - 📫 How to reach me **vyaskushagra2003@gmail.com**
 
