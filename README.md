@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kushagra Vyas</h1>
 <h3 align="center">Student of Tech, Innovation, and Research. Adding value to a safe decentralised future for humanity.</h3>
 
-- 🔭 I’m currently working on **Payment Channel Networks**
+- 🔭 I’m currently working on **Quantum Work-Flow Optimisation**
 
-- 🌱 I’m currently learning **Graphs, Decentralised Systems & Networks**
+- 🌱 I’m currently learning **Qiskit & Agentic Flow**
 
 - 📫 How to reach me **vyaskushagra2003@gmail.com**
 
